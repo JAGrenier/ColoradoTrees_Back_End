@@ -5,7 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Trees_Users.destroy_all
 Tree.destroy_all
+User.destroy_all
 
 pinon_pine = Tree.create(
     name: 'Piñon Pine', 
