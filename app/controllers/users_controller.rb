@@ -9,5 +9,6 @@ class UsersController < ApplicationController
             username: params[:username], 
             password: params[:password]
         )
+        render json: @user
     end
 end
