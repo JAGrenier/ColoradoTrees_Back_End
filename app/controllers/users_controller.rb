@@ -8,15 +8,22 @@ class UsersController < ApplicationController
     end
     
     def profile
-        render json: @user 
+        render json: @user
     end
     
     def create
-        @user = User.create(
-            username: params[:username],
-            password: params[:password]
-        )
-        render json: @user
-        end
-    
+        @user = User.new(user_params)
+
+        if @user.valid?
+            @user.save
+            render json: @user
+        else
+        render json: { errors: @user.errors.full_messages }
     end
+end
+    private
+
+    def user_params
+        params.require(:user).permit(:username, :password)
+    end
+end

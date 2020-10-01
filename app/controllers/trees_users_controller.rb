@@ -1,8 +1,13 @@
 class TreesUsersController < ApplicationController
-    skip_before_action :authenticate, only: [:index]
+    skip_before_action :authorize
+    before_action :find_treesuser, only: [:show, :update, :destroy]
     def index 
         @treesusers = TreesUser.all 
         render json: @treesusers
+    end
+
+    def show 
+        render json: @treesuser
     end
 
     def create

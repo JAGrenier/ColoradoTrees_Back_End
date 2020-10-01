@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   resources :trees_users 
   resources :trees
-  resources :users, only: [:index, :create]
+  resources :users
 
   post '/login', to: 'authentication#login'
   

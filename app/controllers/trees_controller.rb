@@ -3,7 +3,7 @@ class TreesController < ApplicationController
     before_action :find_books, only: [:show, :update, :destroy]
     def index
         @trees = Tree.all 
-        render json: @trees
+        render json: @trees, include: [:users]
     end
 
     def show 
