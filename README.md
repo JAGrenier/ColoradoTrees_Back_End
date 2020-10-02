@@ -13,7 +13,8 @@ When I first moved to Colorado from the east coast, I was unfamilier with the tr
 * Run ``rails db:seed``
 * Open back end on a local host and front end on a server
 
-## Demo Video
+## Demos
+![Login and FAQs](LoginAndFaqs.gif)
 [Check out a video of the project here](https://youtu.be/T2Wecqo6DP4)
 
 ## Creator and Contact
