@@ -14,7 +14,7 @@ When I first moved to Colorado from the east coast, I was unfamilier with the tr
 * Open back end on a local host and front end on a server
 
 ## Demos
-![](https://gph.is/g/ap1voBQ)
+![](https://media.giphy.com/media/sccVLO1c2VjmOlqpf2/giphy.gif)
 
 [Check out a video of the project here](https://youtu.be/T2Wecqo6DP4)
 
