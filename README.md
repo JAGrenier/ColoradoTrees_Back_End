@@ -9,8 +9,8 @@ When I first moved to Colorado from the east coast, I was unfamilier with the tr
 ## How to Use/Open
 * clone code onto your computer and open in your preferred text editor
 * Run ``bundle install``
-* Run rails db:migrate
-* Run rails db:seed
+* Run ``rails db:migrate``
+* Run ``rails db:seed``
 * Open back end on a local host and front end on a server
 
 ## Demo Video
