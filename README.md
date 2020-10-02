@@ -14,8 +14,7 @@ When I first moved to Colorado from the east coast, I was unfamilier with the tr
 * Open back end on a local host and front end on a server
 
 ## Demos
-![](LoginAndFaqs.gif | width=100)
-<img src="/LoginAndFaqs.gif"; img style="height: 20px; width: 20px;">
+![](https://gph.is/g/ap1voBQ)
 
 [Check out a video of the project here](https://youtu.be/T2Wecqo6DP4)
 
