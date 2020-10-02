@@ -1,10 +1,10 @@
 # Colorado Trees Backend 
 
 ## Description
-Colorado Tree is a full stack web app that displays trees of Colorado. Users can view trees, login, favorite trees, then the next time they login in see which trees the favorited. There is also a FAQ pages directing users to further resources about the trees of Colorado.
+Colorado Tree is a full-stack web app that displays trees of Colorado. Users can view trees, login, favorite trees, then the next time they login in to see which trees they favorited. There is also a FAQ page directing users to further resources about the trees of Colorado.
 
 ## Inspiration 
-When I first moved to Colorado from the east coast, I was unfamilier with the trees. I was working an outdoor guide and quickly had to get up to speed so I could share information to my clients about the beutifuls trees found in Colorado. Reflecting on this expereince inspired me to make this project for other who would like to learn more about trees in Colorado. 
+When I first moved to Colorado from the east coast, I was unfamiliar with the trees. I was working an outdoor guide and quickly had to get up to speed so I could share information with my clients about the beautiful trees found in Colorado. Reflecting on this experience inspired me to make this project for others who would like to learn more about trees in Colorado. 
 
 ## How to Use/Open
 * clone code onto your computer and open in your preferred text editor
