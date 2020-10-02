@@ -9,12 +9,11 @@ class UsersController < ApplicationController
     
     def profile
         render json: @user
+        # , include: :trees
     end
     
     def create
         @user = User.new(user_params)
-
-       
 
         if @user.valid?
             @user.save 
