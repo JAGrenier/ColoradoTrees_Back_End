@@ -15,6 +15,8 @@ When I first moved to Colorado from the east coast, I was unfamilier with the tr
 
 ## Demos
 ![](LoginAndFaqs.gif | width=100)
+<img src="/LoginAndFaqs.gif"; img style="height: 20px; width: 20px;">
+
 [Check out a video of the project here](https://youtu.be/T2Wecqo6DP4)
 
 ## Creator and Contact
