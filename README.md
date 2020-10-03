@@ -13,7 +13,7 @@ Colorado Tree is a full-stack web app that displays trees of Colorado. Users can
 * Run ``rails db:migrate``
 * Run ``rails db:seed``
 * Open back end on a local host and front end on a server
-
+* [The front end of the project](https://github.com/JAGrenier/Colorado_Trees_Front_End)
 ## Demos
 Demo of the main page and view of all trees 
 <br>
